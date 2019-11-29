@@ -1,24 +1,3 @@
-# README
+Mister Cocktail - a somewhat impractical way to store cocktails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Training for Le Wagon Web Development Bootcamp, Berlin batch#322.
